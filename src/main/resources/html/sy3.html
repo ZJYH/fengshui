@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+
+<script>
+    var yu = 100;
+    var i =1;
+    while (i>0){
+        var xuanze = prompt('请输入您的操作：\n1.存钱\n2.取钱\n3.显示余额\n4.退出');
+        if(xuanze != '1' && xuanze != '2'&& xuanze != '3'&& xuanze != '4'){
+            alert("输入错误请重新输入");
+        }else {
+            if(xuanze !=null&& xuanze != '4'){
+                yu =ATM(xuanze,yu);
+                alert('余额提示：账户余额' + yu + '元');
+            }else{
+                break;
+            }
+        }
+
+        i++;
+    }
+    function ATM(xuanze,yu){
+        if(xuanze == '1'){
+            var cun = prompt('请输入存钱金额');
+             yu = yu + parseFloat(cun);
+            return yu;
+        }else if(xuanze == '2'){
+            var qu = prompt('请输入取钱金额');
+             if(qu>yu){
+                 alert('余额不足,取款失败');
+                 return yu;
+             }else{
+                 yu = yu - parseFloat(qu);
+                 return yu;
+             }
+        }else if(xuanze == '3'){
+            return yu;
+        }
+    }
+</script>
+
+</body>
+
+</html>

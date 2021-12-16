@@ -1,0 +1,66 @@
+package com.zh.fengshui.Test;
+
+public class YYYYmm {
+
+    public static final String GZ_00 = "甲子 00";
+    public static final String GZ_01 = "乙丑 01";
+    public static final String GZ_02 = "丙寅 02";
+    public static final String GZ_03 = "丁卯 03";
+    public static final String GZ_04 = "戊辰 04";
+    public static final String GZ_05 = "己巳 05";
+    public static final String GZ_06 = "庚午 06";
+    public static final String GZ_07 = "辛未 07";
+    public static final String GZ_08 = "壬申 08";
+    public static final String GZ_09 = "癸酉 09";
+    public static final String GZ_10 = "甲戌 10";
+    public static final String GZ_11 = "乙亥 11";
+    public static final String GZ_12 = "丙子 12";
+    public static final String GZ_13 = "丁丑 13";
+    public static final String GZ_14 = "戊寅 14";
+    public static final String GZ_15 = "己卯 15";
+    public static final String GZ_16 = "庚辰 16";
+    public static final String GZ_17 = "辛巳 17";
+    public static final String GZ_18 = "壬午 18";
+    public static final String GZ_19 = "癸未 19";
+    public static final String GZ_20 = "甲申 20";
+    public static final String GZ_21 = "乙酉 21";
+    public static final String GZ_22 = "丙戌 22";
+    public static final String GZ_23 = "丁亥 23";
+    public static final String GZ_24 = "戊子 24";
+    public static final String GZ_25 = "己丑 25";
+    public static final String GZ_26 = "庚寅 26";
+    public static final String GZ_27 = "辛卯 27";
+    public static final String GZ_28 = "壬辰 28";
+    public static final String GZ_29 = "癸巳 29";
+    public static final String GZ_30 = "甲午 30";
+    public static final String GZ_31 = "乙未 31";
+    public static final String GZ_32 = "丙申 32";
+    public static final String GZ_33 = "丁酉 33";
+    public static final String GZ_34 = "戊戌 34";
+    public static final String GZ_35 = "己亥 35";
+    public static final String GZ_36 = "庚子 36";
+    public static final String GZ_37 = "辛丑 37";
+    public static final String GZ_38 = "壬寅 38";
+    public static final String GZ_39 = "癸卯 39";
+    public static final String GZ_40 = "甲辰 40";
+    public static final String GZ_41 = "乙巳 41";
+    public static final String GZ_42 = "丙午 42";
+    public static final String GZ_43 = "丁未 43";
+    public static final String GZ_44 = "戊申 44";
+    public static final String GZ_45 = "己酉 45";
+    public static final String GZ_46 = "庚戌 46";
+    public static final String GZ_47 = "辛亥 47";
+    public static final String GZ_48 = "壬子 48";
+    public static final String GZ_49 = "癸丑 49";
+    public static final String GZ_50 = "甲寅 50";
+    public static final String GZ_51 = "乙卯 51";
+    public static final String GZ_52 = "丙辰 52";
+    public static final String GZ_53 = "丁巳 53";
+    public static final String GZ_54 = "戊午 54";
+    public static final String GZ_55 = "己未 55";
+    public static final String GZ_56 = "庚申 56";
+    public static final String GZ_57 = "辛酉 57";
+    public static final String GZ_58 = "壬戌 58";
+    public static final String GZ_59 = "癸亥 59";
+
+}
